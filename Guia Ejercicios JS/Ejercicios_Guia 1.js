@@ -148,7 +148,8 @@ function spreadNumbers(...n){
 console.log(spreadNumbers(1,458, 25))
 
 
-//b
+//b b) Dado un array de números, usa el spread operator para encontrar el
+//número máximo
 
 
 
@@ -164,8 +165,13 @@ console.log(c)
 
 
 //6 Destructuring
-//a
+// a) Dado un objeto con propiedades de una persona, usa destructuring para
+// extraer el nombre y la edad en variables separadas.
 
-//b
 
-//c
+// b) Utiliza destructuring en una función para extraer las propiedades de un
+// objeto pasado como argumento.
+
+
+// c) Dado un array con información de una ciudad (nombre, país, población),
+// usa destructuring para asignar cada elemento a una variable.
